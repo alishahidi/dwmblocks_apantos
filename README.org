@@ -1,0 +1,8 @@
+#+TITLE: Dwmblocks Aptantos
+#+AUTHOR: Ali Shahidi
+#+DESCRIPTION: My customized build of dwmblocks.
+
+* Dwmblocks Apts
+
+  first copy .dwm directory to your home folder
+  for install run =sudo make clean install=
